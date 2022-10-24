@@ -11,3 +11,39 @@ D:\Kho Du Lieu OLap\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.cspro
 D:\Kho Du Lieu OLap\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.exe
 D:\Kho Du Lieu OLap\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.pdb
 D:\Kho Du Lieu OLap\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.fGiaoVien.resources
+D:\Program Files\Lập trình ứng dụng\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\bin\Debug\QuanlidiemTHPT.exe.config
+D:\Program Files\Lập trình ứng dụng\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\bin\Debug\QuanlidiemTHPT.exe
+D:\Program Files\Lập trình ứng dụng\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\bin\Debug\QuanlidiemTHPT.pdb
+D:\Program Files\Lập trình ứng dụng\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.csprojAssemblyReference.cache
+D:\Program Files\Lập trình ứng dụng\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.fGiaoVien.resources
+D:\Program Files\Lập trình ứng dụng\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.fHocSinh.resources
+D:\Program Files\Lập trình ứng dụng\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.fMain.resources
+D:\Program Files\Lập trình ứng dụng\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.fMonHoc.resources
+D:\Program Files\Lập trình ứng dụng\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.Properties.Resources.resources
+D:\Program Files\Lập trình ứng dụng\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.csproj.GenerateResource.cache
+D:\Program Files\Lập trình ứng dụng\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.csproj.CoreCompileInputs.cache
+D:\Program Files\Lập trình ứng dụng\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.exe
+D:\Program Files\Lập trình ứng dụng\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.pdb
+D:\Program Files\Lập trình ứng dụng\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.fDangNhap.resources
+D:\Program Files\Lập trình ứng dụng\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\bin\Debug\Database1.mdf
+D:\Program Files\Lập trình ứng dụng\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\bin\Debug\Database1_log.ldf
+D:\Program Files\Lập trình ứng dụng\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.fDangky.resources
+D:\Program Files\Lập trình ứng dụng\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.fQuenMatKhau.resources
+D:\LapTrinhUngDung\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\bin\Debug\Database1.mdf
+D:\LapTrinhUngDung\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\bin\Debug\Database1_log.ldf
+D:\LapTrinhUngDung\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\bin\Debug\QuanlidiemTHPT.exe.config
+D:\LapTrinhUngDung\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\bin\Debug\QuanlidiemTHPT.exe
+D:\LapTrinhUngDung\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\bin\Debug\QuanlidiemTHPT.pdb
+D:\LapTrinhUngDung\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.csprojAssemblyReference.cache
+D:\LapTrinhUngDung\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.fDangky.resources
+D:\LapTrinhUngDung\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.fDangNhap.resources
+D:\LapTrinhUngDung\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.fGiaoVien.resources
+D:\LapTrinhUngDung\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.fHocSinh.resources
+D:\LapTrinhUngDung\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.fMain.resources
+D:\LapTrinhUngDung\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.fMonHoc.resources
+D:\LapTrinhUngDung\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.fQuenMatKhau.resources
+D:\LapTrinhUngDung\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.Properties.Resources.resources
+D:\LapTrinhUngDung\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.csproj.GenerateResource.cache
+D:\LapTrinhUngDung\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.csproj.CoreCompileInputs.cache
+D:\LapTrinhUngDung\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.exe
+D:\LapTrinhUngDung\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.pdb

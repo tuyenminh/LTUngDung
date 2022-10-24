@@ -16,5 +16,10 @@ namespace QuanlidiemTHPT
         {
             InitializeComponent();
         }
+
+        private void fGiaoVien_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

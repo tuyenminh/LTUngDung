@@ -87,6 +87,18 @@
     <Compile Include="fHocSinh.Designer.cs">
       <DependentUpon>fHocSinh.cs</DependentUpon>
     </Compile>
+    <Compile Include="fKhoi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fKhoi.Designer.cs">
+      <DependentUpon>fKhoi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fLop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fLop.Designer.cs">
+      <DependentUpon>fLop.cs</DependentUpon>
+    </Compile>
     <Compile Include="fMonHoc.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -105,9 +117,15 @@
     <Compile Include="fQuenMatKhau.Designer.cs">
       <DependentUpon>fQuenMatKhau.cs</DependentUpon>
     </Compile>
+    <Compile Include="Khoi.cs" />
+    <Compile Include="LienKetGDKhoi.cs" />
+    <Compile Include="LienKetGDMonHoc.cs" />
     <Compile Include="Modify.cs" />
+    <Compile Include="MonHoc.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QliKhoi.cs" />
+    <Compile Include="QliMonHoc.cs" />
     <Compile Include="stringConnection.cs" />
     <Compile Include="TaiKhoan.cs" />
     <EmbeddedResource Include="fDangky.resx">
@@ -121,6 +139,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="fHocSinh.resx">
       <DependentUpon>fHocSinh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fKhoi.resx">
+      <DependentUpon>fKhoi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fLop.resx">
+      <DependentUpon>fLop.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="fMain.resx">
       <DependentUpon>fMain.cs</DependentUpon>
@@ -162,6 +186,9 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <DependentUpon>Database1.mdf</DependentUpon>
     </Content>
+    <Content Include="Resources\add-to-database-icon.png" />
+    <None Include="Resources\add-to-database-icon1.png" />
+    <None Include="Resources\add-file.png" />
     <None Include="Resources\login.png" />
     <None Include="Resources\individual.png" />
     <None Include="Resources\png-transparent-email-symbol-password-installation-login-user-account-computer-software-data-padlock.png" />

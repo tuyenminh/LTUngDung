@@ -36,7 +36,7 @@ namespace QuanlidiemTHPT
         public void Command(string query) // dung de dang ky tai khoan
 
         {
-            using (SqlConnection sqlConnection = Connection.GetSqlConnection())
+           using (SqlConnection sqlConnection = Connection.GetSqlConnection())
             {
                 sqlConnection.Open();
                 sqlCommand = new SqlCommand(query, sqlConnection);

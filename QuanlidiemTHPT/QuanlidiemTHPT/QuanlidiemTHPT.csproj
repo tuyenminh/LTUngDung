@@ -123,6 +123,12 @@
     <Compile Include="fThongTinHS.Designer.cs">
       <DependentUpon>fThongTinHS.cs</DependentUpon>
     </Compile>
+    <Compile Include="fThongTinTaiKhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fThongTinTaiKhoan.Designer.cs">
+      <DependentUpon>fThongTinTaiKhoan.cs</DependentUpon>
+    </Compile>
     <Compile Include="Khoi.cs" />
     <Compile Include="LienKetGDKhoi.cs" />
     <Compile Include="LienKetGDMonHoc.cs" />

@@ -14,8 +14,10 @@ namespace QuanlidiemTHPT
 {
     public partial class fDangNhap : Form
     {
+        Connection connection;
         public fDangNhap()
         {
+            connection = new Connection();
             InitializeComponent();
         }
 
@@ -31,7 +33,8 @@ namespace QuanlidiemTHPT
        
         private void button1_Click(object sender, EventArgs e)
         {
-            SqlConnection conn = new SqlConnection(@"Data Source=DUCVO; Initial Catalog= QuanLiDiem;Integrated Security= true");
+            
+            SqlConnection conn = connection.getSqlConnection();
             try
             {
                 conn.Open();

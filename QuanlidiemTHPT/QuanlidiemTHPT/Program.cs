@@ -16,11 +16,11 @@ namespace QuanlidiemTHPT
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-           Application.Run(new fDangNhap());
+           //Application.Run(new fDangNhap());
             //       Application.Run(new fMonHoc());
               //   Application.Run(new fKhoi());
 
-         //Application.Run(new fThongTinHS());
+         Application.Run(new fThongTinHS());
 
 
         }

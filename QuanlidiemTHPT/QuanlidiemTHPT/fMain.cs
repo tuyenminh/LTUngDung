@@ -36,6 +36,10 @@ namespace QuanlidiemTHPT
                 dangNhap.ShowDialog();
             }
         }
-        
+
+        private void tàiKhoảnToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

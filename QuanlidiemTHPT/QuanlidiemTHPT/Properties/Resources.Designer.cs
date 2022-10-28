@@ -83,6 +83,16 @@ namespace QuanlidiemTHPT.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap ảnh_động {
+            get {
+                object obj = ResourceManager.GetObject("ảnh động", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap anh_gif_1_min {
             get {
                 object obj = ResourceManager.GetObject("anh-gif-1-min", resourceCulture);

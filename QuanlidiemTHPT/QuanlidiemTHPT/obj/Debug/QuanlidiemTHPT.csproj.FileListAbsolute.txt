@@ -35,13 +35,11 @@ D:\LapTrinhUngDung\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\bin\Debug\QuanlidiemT
 D:\LapTrinhUngDung\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\bin\Debug\QuanlidiemTHPT.exe
 D:\LapTrinhUngDung\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\bin\Debug\QuanlidiemTHPT.pdb
 D:\LapTrinhUngDung\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.csprojAssemblyReference.cache
-D:\LapTrinhUngDung\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.fDangky.resources
 D:\LapTrinhUngDung\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.fDangNhap.resources
 D:\LapTrinhUngDung\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.fGiaoVien.resources
 D:\LapTrinhUngDung\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.fHocSinh.resources
 D:\LapTrinhUngDung\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.fMain.resources
 D:\LapTrinhUngDung\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.fMonHoc.resources
-D:\LapTrinhUngDung\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.fQuenMatKhau.resources
 D:\LapTrinhUngDung\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.Properties.Resources.resources
 D:\LapTrinhUngDung\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.csproj.GenerateResource.cache
 D:\LapTrinhUngDung\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.csproj.CoreCompileInputs.cache
@@ -90,3 +88,8 @@ D:\File\VisualStudio\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\Quanlidie
 D:\File\VisualStudio\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.fDiem.resources
 D:\File\VisualStudio\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.fTaiKhoan.resources
 D:\File\VisualStudio\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.fThongTinHS.resources
+D:\LapTrinhUngDung\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.fDiem.resources
+D:\LapTrinhUngDung\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.fKhoi.resources
+D:\LapTrinhUngDung\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.fLop.resources
+D:\LapTrinhUngDung\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.fTaiKhoan.resources
+D:\LapTrinhUngDung\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.fThongTinHS.resources

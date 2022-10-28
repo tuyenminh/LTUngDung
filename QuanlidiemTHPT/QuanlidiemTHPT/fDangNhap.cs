@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Data.SqlClient;
+using System.Data;
 
 namespace QuanlidiemTHPT
 {
@@ -26,43 +28,48 @@ namespace QuanlidiemTHPT
         {
 
         }
-
-        private void linkLabel_quenmatkhau_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
-        {
-            fQuenMatKhau quenMatKhau = new fQuenMatKhau();
-            quenMatKhau.ShowDialog();
-        }
-
-        private void linkLabel_dangky_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
-        {
-            fDangky dangky = new fDangky();
-            dangky.ShowDialog();
-        }
-        Modify modify = new Modify();
+       
         private void button1_Click(object sender, EventArgs e)
         {
-            string tentk = textBox_tentaikhoan.Text;
-            string matkhau = textBox_matkhau.Text;
-            if (tentk.Trim() == "") { MessageBox.Show("Vui lòng nhập tên tài khoản!");  }
-            else if(matkhau.Trim() == "") { MessageBox.Show("Vui lòng nhập mật khẩu!"); }
-
-            else
+            SqlConnection conn = new SqlConnection(@"Data Source=DUCVO; Initial Catalog= QuanLiDiem;Integrated Security= true");
+            try
             {
-                string query = "Select * from GiaoVien where GV_TenDN ='"+tentk+"' and GV_MatKhau = '"+matkhau+"'";
-                if(modify.TaiKhoans(query).Count!=0)
+                conn.Open();
+                string tk = txtTaiKhoan.Text;
+                string mk = txtMatKhau.Text;
+                string sql = "select *from GiaoVien where GV_TenDN='" + tk + "' and GV_MatKhau='" + mk + "'";
+                SqlCommand cmd = new SqlCommand(sql, conn);
+                SqlDataReader dta = cmd.ExecuteReader();
+                if(dta.Read()==true)
                 {
-                    MessageBox.Show("Đăng nhập thành công!","Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    MessageBox.Show("Đăng nhập thành công","Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
                     this.Hide();
-                    fMain fmain = new fMain();
-                    fmain.ShowDialog();
+                    fMain main = new fMain();
+                    main.ShowDialog();
                     this.Close();
-                   
                 }
                 else
                 {
-                    MessageBox.Show("Tên tài khoản hoặc mật khẩu không chính xác!","Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    MessageBox.Show("Đăng nhập thất bại","Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 }
             }
+            catch(Exception ex)
+            {
+                MessageBox.Show("Lỗi kết nói");
+            }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            DialogResult tb = MessageBox.Show("Bạn muốn thoát ?", "Thông báo", MessageBoxButtons.OKCancel, MessageBoxIcon.Question);
+            if (tb == DialogResult.OK)
+                Application.Exit();
+                
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

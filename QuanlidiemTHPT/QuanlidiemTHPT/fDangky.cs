@@ -58,7 +58,7 @@ namespace QuanlidiemTHPT
             {
                 string query = "Insert into TaiKhoan values ('" +tentk+ "', '" +matkhau+ "','" +email+"')";
                 modify.Command(query);
-                if (MessageBox.Show("Đăng ký thành công! Bạn có muốn đăng nhập ngay không?", "Thông báo", MessageBoxButtons.YesNo, MessageBoxIcon.Information) == DialogResult.Yes);
+                if (MessageBox.Show("Đăng ký thành công! Bạn có muốn đăng nhập ngay không?", "Thông báo", MessageBoxButtons.YesNo, MessageBoxIcon.Information) == DialogResult.Yes)
                 {
                     this.Close();
                 }

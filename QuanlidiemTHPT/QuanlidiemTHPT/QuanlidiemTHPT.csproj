@@ -75,6 +75,12 @@
     <Compile Include="fDangNhap.Designer.cs">
       <DependentUpon>fDangNhap.cs</DependentUpon>
     </Compile>
+    <Compile Include="fDiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fDiem.Designer.cs">
+      <DependentUpon>fDiem.cs</DependentUpon>
+    </Compile>
     <Compile Include="fGiaoVien.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -117,9 +123,22 @@
     <Compile Include="fQuenMatKhau.Designer.cs">
       <DependentUpon>fQuenMatKhau.cs</DependentUpon>
     </Compile>
+    <Compile Include="fTaiKhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fTaiKhoan.Designer.cs">
+      <DependentUpon>fTaiKhoan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fThongTinHS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fThongTinHS.Designer.cs">
+      <DependentUpon>fThongTinHS.cs</DependentUpon>
+    </Compile>
     <Compile Include="Khoi.cs" />
     <Compile Include="LienKetGDKhoi.cs" />
     <Compile Include="LienKetGDMonHoc.cs" />
+    <Compile Include="Lop.cs" />
     <Compile Include="Modify.cs" />
     <Compile Include="MonHoc.cs" />
     <Compile Include="Program.cs" />
@@ -133,6 +152,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="fDangNhap.resx">
       <DependentUpon>fDangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fDiem.resx">
+      <DependentUpon>fDiem.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="fGiaoVien.resx">
       <DependentUpon>fGiaoVien.cs</DependentUpon>
@@ -154,6 +176,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="fQuenMatKhau.resx">
       <DependentUpon>fQuenMatKhau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fTaiKhoan.resx">
+      <DependentUpon>fTaiKhoan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fThongTinHS.resx">
+      <DependentUpon>fThongTinHS.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

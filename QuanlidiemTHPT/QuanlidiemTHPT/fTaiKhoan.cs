@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Data.SqlClient;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -10,21 +11,14 @@ using System.Windows.Forms;
 
 namespace QuanlidiemTHPT
 {
-    public partial class fKhoi : Form
+    public partial class fTaiKhoan : Form
     {
-        public fKhoi()
+
+        public SqlConnection conn;
+
+        public fTaiKhoan()
         {
             InitializeComponent();
-        }
-
-        private void label4_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void fKhoi_Load(object sender, EventArgs e)
-        {
-
         }
     }
 }

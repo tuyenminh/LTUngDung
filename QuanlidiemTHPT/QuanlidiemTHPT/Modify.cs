@@ -8,8 +8,10 @@ namespace QuanlidiemTHPT
 {
     class Modify
     {
+      
         public Modify()
         {
+            
         }
 
         SqlCommand sqlCommand; // truy van cac cau lenh insert, update,delete...

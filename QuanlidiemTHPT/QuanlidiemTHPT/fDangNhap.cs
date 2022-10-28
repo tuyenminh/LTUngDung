@@ -48,7 +48,7 @@ namespace QuanlidiemTHPT
 
             else
             {
-                string query = "Select * from TaiKhoan where TenTaiKhoan ='"+tentk+"' and MatKhau = '"+matkhau+"'";
+                string query = "Select * from GiaoVien where GV_TenDN ='"+tentk+"' and GV_MatKhau = '"+matkhau+"'";
                 if(modify.TaiKhoans(query).Count!=0)
                 {
                     MessageBox.Show("Đăng nhập thành công!","Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);

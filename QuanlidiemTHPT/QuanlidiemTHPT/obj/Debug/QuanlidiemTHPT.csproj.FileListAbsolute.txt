@@ -114,3 +114,4 @@ C:\Users\MINH PHAT\Downloads\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\Q
 C:\Users\MINH PHAT\Downloads\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.csproj.CoreCompileInputs.cache
 C:\Users\MINH PHAT\Downloads\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.exe
 C:\Users\MINH PHAT\Downloads\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.pdb
+C:\Users\MINH PHAT\Downloads\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.fThongTinTaiKhoan.resources

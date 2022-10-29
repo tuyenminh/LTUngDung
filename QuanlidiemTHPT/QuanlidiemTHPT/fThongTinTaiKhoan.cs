@@ -16,5 +16,10 @@ namespace QuanlidiemTHPT
         {
             InitializeComponent();
         }
+
+        private void fThongTinTaiKhoan_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

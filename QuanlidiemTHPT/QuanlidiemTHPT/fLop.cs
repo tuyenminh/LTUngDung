@@ -16,5 +16,10 @@ namespace QuanlidiemTHPT
         {
             InitializeComponent();
         }
+
+        private void fLop_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

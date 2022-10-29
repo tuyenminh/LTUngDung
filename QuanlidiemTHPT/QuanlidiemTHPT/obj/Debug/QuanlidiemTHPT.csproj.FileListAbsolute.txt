@@ -93,3 +93,24 @@ D:\LapTrinhUngDung\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemT
 D:\LapTrinhUngDung\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.fLop.resources
 D:\LapTrinhUngDung\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.fTaiKhoan.resources
 D:\LapTrinhUngDung\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.fThongTinHS.resources
+C:\Users\MINH PHAT\Downloads\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\bin\Debug\Database1.mdf
+C:\Users\MINH PHAT\Downloads\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\bin\Debug\Database1_log.ldf
+C:\Users\MINH PHAT\Downloads\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\bin\Debug\QuanlidiemTHPT.exe.config
+C:\Users\MINH PHAT\Downloads\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\bin\Debug\QuanlidiemTHPT.exe
+C:\Users\MINH PHAT\Downloads\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\bin\Debug\QuanlidiemTHPT.pdb
+C:\Users\MINH PHAT\Downloads\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.csprojAssemblyReference.cache
+C:\Users\MINH PHAT\Downloads\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.fDangNhap.resources
+C:\Users\MINH PHAT\Downloads\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.fDiem.resources
+C:\Users\MINH PHAT\Downloads\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.fGiaoVien.resources
+C:\Users\MINH PHAT\Downloads\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.fHocSinh.resources
+C:\Users\MINH PHAT\Downloads\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.fKhoi.resources
+C:\Users\MINH PHAT\Downloads\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.fLop.resources
+C:\Users\MINH PHAT\Downloads\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.fMain.resources
+C:\Users\MINH PHAT\Downloads\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.fMonHoc.resources
+C:\Users\MINH PHAT\Downloads\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.fTaiKhoan.resources
+C:\Users\MINH PHAT\Downloads\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.fThongTinHS.resources
+C:\Users\MINH PHAT\Downloads\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.Properties.Resources.resources
+C:\Users\MINH PHAT\Downloads\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.csproj.GenerateResource.cache
+C:\Users\MINH PHAT\Downloads\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.csproj.CoreCompileInputs.cache
+C:\Users\MINH PHAT\Downloads\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.exe
+C:\Users\MINH PHAT\Downloads\LTUngDung\QuanlidiemTHPT\QuanlidiemTHPT\obj\Debug\QuanlidiemTHPT.pdb

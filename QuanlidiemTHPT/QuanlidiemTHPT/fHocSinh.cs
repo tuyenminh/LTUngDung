@@ -144,5 +144,10 @@ namespace QuanlidiemTHPT
             MessageBox.Show("Sửa thành công");
             ShowData("select* from HocSinh", luoidulieuhs);
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

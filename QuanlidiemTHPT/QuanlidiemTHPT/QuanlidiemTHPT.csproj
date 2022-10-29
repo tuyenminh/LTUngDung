@@ -63,6 +63,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Connection.cs" />
+    <Compile Include="DShocsinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DShocsinh.Designer.cs">
+      <DependentUpon>DShocsinh.cs</DependentUpon>
+    </Compile>
     <Compile Include="fDangNhap.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -117,6 +123,12 @@
     <Compile Include="fTaiKhoan.Designer.cs">
       <DependentUpon>fTaiKhoan.cs</DependentUpon>
     </Compile>
+    <Compile Include="fThongke.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fThongke.Designer.cs">
+      <DependentUpon>fThongke.cs</DependentUpon>
+    </Compile>
     <Compile Include="fThongTinHS.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -139,6 +151,10 @@
     <Compile Include="QliKhoi.cs" />
     <Compile Include="QliMonHoc.cs" />
     <Compile Include="stringConnection.cs" />
+    <Compile Include="Thongke.cs" />
+    <EmbeddedResource Include="DShocsinh.resx">
+      <DependentUpon>DShocsinh.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="fDangNhap.resx">
       <DependentUpon>fDangNhap.cs</DependentUpon>
     </EmbeddedResource>
@@ -165,6 +181,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="fTaiKhoan.resx">
       <DependentUpon>fTaiKhoan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fThongke.resx">
+      <DependentUpon>fThongke.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="fThongTinHS.resx">
       <DependentUpon>fThongTinHS.cs</DependentUpon>
